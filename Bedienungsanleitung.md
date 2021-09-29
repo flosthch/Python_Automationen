@@ -1,4 +1,4 @@
-**Zuerst in den Terminal eingeben:**
+**Zuerst entsprechend Code copieren und in den Terminal eingeben:**
 
 * Windows:
   ```
